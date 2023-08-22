@@ -6,17 +6,10 @@
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Demo
-
-Check out the AI in action! Here's a quick demo video of the trained AI playing the Pong game:
-
-[![AI Pong Gameplay](demo_thumbnail.png)](https://youtu.be/your-demo-link)
 
 ## Installation
 
